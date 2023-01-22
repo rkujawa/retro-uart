@@ -49,7 +49,9 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "malformed_courtyard|35483800|68910200|3151ef2a-aa53-4b67-a3dc-98af14b8ec8f|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
